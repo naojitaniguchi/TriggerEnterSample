@@ -316,7 +316,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   hit: 0
-  dialog: {fileID: 0}
+  dialog: {fileID: 2106830152}
 --- !u!50 &463739960
 Rigidbody2D:
   serializedVersion: 4
